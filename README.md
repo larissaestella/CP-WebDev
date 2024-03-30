@@ -1,4 +1,4 @@
-#  WEB DEVELOPMENT - CHECKPOINT AIRBNB
+#  WEB DEV - CHECKPOINT AIRBNB
 
     Jeferson Gabriel de Mendonça | 553149 
     Larissa Estella Gonçalves dos Santos | 552695 
